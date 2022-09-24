@@ -1,0 +1,33 @@
+.bigbox{
+    height: 400px;
+    width: 300px;
+    background-color: yellow;
+    border: 10px;
+    padding: 100px;
+    align-items:center;
+     margin: 20px;
+}
+.btn{
+    height: 20px;
+    width: 15px;
+    /* border: 2px; */
+    padding: 4px;
+    background-color: brown;
+    /* align-content: center; */
+    margin: 10px;
+    
+}
+.first-row{
+    display: flex;
+}
+.display{
+    border: 1px solid lightblue;
+    background-color: rgb(232, 252, 58);
+    width: 100%;
+    margin:  5px 2px ;
+    box-sizing: border-box !important;
+    padding: 10px;
+}
+
+
+
